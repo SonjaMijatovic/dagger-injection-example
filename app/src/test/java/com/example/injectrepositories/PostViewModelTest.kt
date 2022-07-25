@@ -3,6 +3,7 @@ package com.example.injectrepositories
 import androidx.lifecycle.LiveData
 import com.example.injectrepositories.model.Post
 import com.example.injectrepositories.repository.PostRepository
+import com.example.injectrepositories.viewmodel.PostViewModel
 import junit.framework.TestCase.assertEquals
 import org.junit.Test
 import org.junit.runner.RunWith

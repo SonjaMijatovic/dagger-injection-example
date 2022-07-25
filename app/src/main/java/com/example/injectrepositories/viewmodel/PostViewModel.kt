@@ -1,4 +1,4 @@
-package com.example.injectrepositories
+package com.example.injectrepositories.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
