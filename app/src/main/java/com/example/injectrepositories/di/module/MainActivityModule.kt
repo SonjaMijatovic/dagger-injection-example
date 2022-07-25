@@ -7,6 +7,7 @@ import com.example.injectrepositories.repository.PostRepository
 import dagger.Module
 import dagger.Provides
 
+@Suppress("UNCHECKED_CAST")
 @Module
 class MainActivityModule {
 
